@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "hardhat.formatter": "prettier",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.useEditorConfig": false,
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
+  "files.insertFinalNewline": true
+}
